@@ -1,2 +1,0 @@
-#!/bin/bas
-find . " type f -name *".js"  -delete
